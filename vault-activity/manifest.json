@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-05T14:28:44.849Z",
+  "basePath": "vault-activity",
+  "vaults": [
+    {
+      "vaultId": "mlp",
+      "name": "MLP (House Liq.)",
+      "file": "mlp.json",
+      "bucketCount": 3,
+      "activityCount": 820,
+      "tvlUsd": 9800000
+    },
+    {
+      "vaultId": "delta-neutral-mm-1",
+      "name": "Delta-Neutral MM #1",
+      "file": "delta-neutral-mm-1.json",
+      "bucketCount": 3,
+      "activityCount": 823,
+      "tvlUsd": 1200000
+    },
+    {
+      "vaultId": "basis-capture",
+      "name": "Basis Capture",
+      "file": "basis-capture.json",
+      "bucketCount": 2,
+      "activityCount": 802,
+      "tvlUsd": 2100000
+    },
+    {
+      "vaultId": "btc-momentum",
+      "name": "BTC Momentum",
+      "file": "btc-momentum.json",
+      "bucketCount": 1,
+      "activityCount": 672,
+      "tvlUsd": 640000
+    },
+    {
+      "vaultId": "eth-carry",
+      "name": "ETH Carry",
+      "file": "eth-carry.json",
+      "bucketCount": 1,
+      "activityCount": 130,
+      "tvlUsd": 880000
+    },
+    {
+      "vaultId": "sol-scalper",
+      "name": "SOL Scalper",
+      "file": "sol-scalper.json",
+      "bucketCount": 1,
+      "activityCount": 18,
+      "tvlUsd": 310000
+    },
+    {
+      "vaultId": "liquidator",
+      "name": "Liquidator",
+      "file": "liquidator.json",
+      "bucketCount": 2,
+      "activityCount": 690,
+      "tvlUsd": 1200000
+    },
+    {
+      "vaultId": "range-bot",
+      "name": "Range Bot",
+      "file": "range-bot.json",
+      "bucketCount": 1,
+      "activityCount": 130,
+      "tvlUsd": 150000
+    },
+    {
+      "vaultId": "funding-harvest",
+      "name": "Funding Harvest",
+      "file": "funding-harvest.json",
+      "bucketCount": 1,
+      "activityCount": 130,
+      "tvlUsd": 95000
+    },
+    {
+      "vaultId": "new-agentic-vault",
+      "name": "New Agentic Vault",
+      "file": "new-agentic-vault.json",
+      "bucketCount": 1,
+      "activityCount": 672,
+      "tvlUsd": 92000
+    },
+    {
+      "vaultId": "fresh-mm-vault",
+      "name": "Fresh MM Vault",
+      "file": "fresh-mm-vault.json",
+      "bucketCount": 1,
+      "activityCount": 672,
+      "tvlUsd": 60000
+    }
+  ]
+}
