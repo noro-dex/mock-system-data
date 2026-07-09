@@ -1,0 +1,87 @@
+{
+  "slug": "MAEXSOC",
+  "generatedAt": "2026-07-09T06:48:09.522Z",
+  "weights": {
+    "neural-hedger": 33.3,
+    "yieldfox": 33.3,
+    "ext-dune-crane": 33.4
+  },
+  "nav": 5.5824,
+  "marks": {
+    "neural-hedger": 8.92,
+    "yieldfox": 3.18,
+    "ext-dune-crane": 4.65
+  },
+  "navContributions": {
+    "neural-hedger": 1.86,
+    "yieldfox": 1.86,
+    "ext-dune-crane": 1.86
+  },
+  "chartSeries": [
+    5.2479,
+    5.2865,
+    5.1945,
+    5.2161,
+    5.258,
+    5.2608,
+    5.1979,
+    5.2986,
+    5.271,
+    5.1467,
+    5.1064,
+    5.069,
+    5.0753,
+    5.1015,
+    5.2249,
+    5.3111,
+    5.2773,
+    5.3084,
+    5.3822,
+    5.3863,
+    5.3607,
+    5.3846,
+    5.3861,
+    5.5042,
+    5.5405,
+    5.5079,
+    5.6288,
+    5.5406,
+    5.5734,
+    5.5824
+  ],
+  "rebalance": {
+    "lastAt": "2026-06-24T06:48:09.522Z",
+    "nextWindow": "2026-07-24 – 2026-07-26",
+    "shouldRebalance": false,
+    "maxDriftPp": 0
+  },
+  "scoreBreakdown": {
+    "neural-hedger": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7537023895833334,
+      "sortino": 0.15118491347326127,
+      "shrunkSortino": 0.15047478774342993,
+      "capacity": 0.4671717171717172,
+      "social": 0.35,
+      "rawScore": 0.10026978600707563
+    },
+    "yieldfox": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7418461538461539,
+      "sortino": 0.39148906577358833,
+      "shrunkSortino": 0.38750747816399994,
+      "capacity": 1,
+      "social": 0.35,
+      "rawScore": 0.10936585702529246
+    },
+    "ext-dune-crane": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.36821783422459897,
+      "sortino": -0.24560539193466036,
+      "shrunkSortino": -0.2409136785952406,
+      "capacity": 0.0003297626262626263,
+      "social": 0.19072025896951714,
+      "rawScore": 0.021852429569417214
+    }
+  }
+}

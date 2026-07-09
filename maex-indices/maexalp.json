@@ -1,0 +1,84 @@
+{
+  "slug": "MAEXALP",
+  "generatedAt": "2026-07-09T06:48:09.522Z",
+  "weights": {
+    "alphabot": 33.4,
+    "ext-edge-badger": 33.3,
+    "ext-grid-gecko": 33.3
+  },
+  "nav": 4.3079,
+  "marks": {
+    "alphabot": 2.3497,
+    "ext-edge-badger": 2.17,
+    "ext-grid-gecko": 8.41
+  },
+  "navContributions": {
+    "alphabot": 1.44,
+    "ext-edge-badger": 1.43,
+    "ext-grid-gecko": 1.43
+  },
+  "chartSeries": [
+    3.7896,
+    3.8117,
+    3.855,
+    3.8562,
+    3.8617,
+    3.8663,
+    3.9243,
+    3.9435,
+    3.9637,
+    3.9239,
+    3.9097,
+    3.9955,
+    3.9794,
+    4.0818,
+    4.1345,
+    4.0985,
+    4.0733,
+    4.0819,
+    4.0636,
+    4.0624,
+    4.092,
+    4.1073,
+    4.0609,
+    4.1098,
+    4.1252,
+    4.1423,
+    4.2059,
+    4.2761,
+    4.3008,
+    4.3281
+  ],
+  "rebalance": {
+    "lastAt": "2026-06-24T06:48:09.522Z",
+    "nextWindow": "2026-07-26 – 2026-07-28",
+    "shouldRebalance": false,
+    "maxDriftPp": 0
+  },
+  "scoreBreakdown": {
+    "alphabot": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.6882557802816902,
+      "sortino": 0.25398883162234503,
+      "shrunkSortino": 0.2555809094147299,
+      "capacity": 1,
+      "rawScore": 0.2742629049343236
+    },
+    "ext-edge-badger": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7415883547169811,
+      "sortino": 0.27695211912116957,
+      "shrunkSortino": 0.2783247980645433,
+      "capacity": 0.0005461,
+      "rawScore": 0.031336119557703414
+    },
+    "ext-grid-gecko": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7406190320512822,
+      "sortino": 0.730927985250312,
+      "shrunkSortino": 0.7279632285145534,
+      "capacity": 0.0002078690476190476,
+      "rawScore": 0.027752840130872803
+    }
+  }
+}

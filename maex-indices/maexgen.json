@@ -1,0 +1,84 @@
+{
+  "slug": "MAEXGEN",
+  "generatedAt": "2026-07-09T06:48:09.522Z",
+  "weights": {
+    "ext-ridge-raven": 33,
+    "ext-spark-whale": 33.7,
+    "ext-cipher-tiger": 33.3
+  },
+  "nav": 15.7879,
+  "marks": {
+    "ext-ridge-raven": 25.3,
+    "ext-spark-whale": 11.58,
+    "ext-cipher-tiger": 10.62
+  },
+  "navContributions": {
+    "ext-ridge-raven": 5.21,
+    "ext-spark-whale": 5.32,
+    "ext-cipher-tiger": 5.26
+  },
+  "chartSeries": [
+    16.2771,
+    16.2172,
+    16.3049,
+    16.1571,
+    16.0768,
+    16.1709,
+    15.922,
+    15.9816,
+    15.9222,
+    15.8918,
+    16.0533,
+    15.8044,
+    15.7897,
+    15.8477,
+    15.5318,
+    15.5397,
+    15.4892,
+    15.4489,
+    15.6696,
+    15.8103,
+    15.7828,
+    15.7176,
+    15.9004,
+    15.7927,
+    15.7499,
+    15.7101,
+    15.8214,
+    15.735,
+    15.7582,
+    15.7879
+  ],
+  "rebalance": {
+    "lastAt": "2026-06-24T06:48:09.522Z",
+    "nextWindow": "2026-07-23 – 2026-07-25",
+    "shouldRebalance": false,
+    "maxDriftPp": 0
+  },
+  "scoreBreakdown": {
+    "ext-ridge-raven": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.1617514901256733,
+      "sortino": -0.29477551728030016,
+      "shrunkSortino": -0.2783062736838116,
+      "capacity": 0.7630892782644972,
+      "rawScore": 637071.9557293511
+    },
+    "ext-spark-whale": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7468990152027026,
+      "sortino": 0.5761057612343111,
+      "shrunkSortino": 0.5666034711710348,
+      "capacity": 1,
+      "rawScore": 3126573.1623874013
+    },
+    "ext-cipher-tiger": {
+      "kappa": 0.7071067811865476,
+      "integrity": 0.7432357669902914,
+      "sortino": 0.49109048459750465,
+      "shrunkSortino": 0.48412353106429246,
+      "capacity": 0.45070277798228175,
+      "rawScore": 1082626.924769993
+    }
+  }
+}
