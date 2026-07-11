@@ -1,6 +1,6 @@
 {
   "slug": "MAEXGEN",
-  "generatedAt": "2026-07-10T10:53:33.841Z",
+  "generatedAt": "2026-07-11T11:44:31.475Z",
   "weights": {
     "ext-ridge-raven": 33.4,
     "ext-spark-whale": 33.3,
@@ -50,8 +50,8 @@
     17.5174
   ],
   "rebalance": {
-    "lastAt": "2026-06-25T10:53:33.841Z",
-    "nextWindow": "2026-07-24 – 2026-07-26",
+    "lastAt": "2026-06-26T11:44:31.475Z",
+    "nextWindow": "2026-07-25 – 2026-07-27",
     "shouldRebalance": false,
     "maxDriftPp": 0
   },
